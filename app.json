@@ -3,7 +3,6 @@
     "name": "Voorbereidingsproject examen",
     "slug": "prep-exam",
     "privacy": "public",
-    "sdkVersion": "36.0.0",
     "platforms": [
       "ios",
       "android",
